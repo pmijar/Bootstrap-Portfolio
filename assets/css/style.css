@@ -14,94 +14,8 @@ body {
     background: url("https://www.toptal.com/designers/subtlepatterns/patterns/gravel.png");
 
   }
- 
-.container-1 {
-    margin-top: 5px;
-    position: relative;
-    height:40px;
-    width:960px;
-    margin-left: 269px;
-    font-weight:lighter;
-    text-align: center;
-    }
-
-
-.name{
-    float: left;
-    margin-left: 10px;
-    font-weight: bolder;
-    font-size: 30px;
-    background-color: teal;
-    color:white;
-    text-align: left;
-  /*  margin-left: 15px;*/
-}
-  
-h1{
-    color: teal;
-    margin-left:4%;
-    padding-top: 0px;
-    margin-bottom: 0%;
-    margin-top: 0px;
-}
-
-.about{
-    position: absolute;
-    margin-left: 82%;
-    width:4%;
-    margin-top: 20px;
-}
-
-
-.portfolio{
-    position: absolute;
-    margin-left: 87%;
-    width: 4%;
-    margin-top: 20px;
-}
-
-.contact{
-    position: absolute;
-    margin-left: 94%;
-    width: 4%;
-    margin-top:20px;
-}
-
-.description{
-    margin-left: 264px;
-    margin-bottom: 0%;  
-    margin: 10px auto;
-    width:960px;
-    color: black;
-    background-color: #ffffff;
-    height: auto;
-    overflow:auto;
-}
-
-.wrapper{
-    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/gravel.png");
-
-}
-
-.inputClass{
-    font-size: 12pt;
-    height: 20px;
-    width:95%;
-    margin-left: 10px;
-}
-
-.imgIndexPage {
-    float: left;
-    margin-right: 10px;
-}
-
-.navhover a:hover {
-color: blue;
-background-color: grey;
-}
 
 footer{
-    position: fixed;
     height: 70px;
     color: white;
     width:100%;
@@ -112,18 +26,14 @@ footer{
     text-align: center;
     background-color: #666666;
 }
+
 hr {
     /*display: block;*/
-    height: 3px;
+    height: 10px;
     border: 0;
     border-top: 1px solid #cccccc;
     margin: 0;
     padding: 0;
-}
-
-
-.container-2{
-    margin-left: 3.3%
 }
 
 .imgPortfolio{
