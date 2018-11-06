@@ -21,6 +21,7 @@ header{
 }
 
 footer{
+    border-top: 3px solid teal;
     position: fixed;
     height: 70px;
     color: white;
@@ -28,70 +29,34 @@ footer{
     left: 0;
     bottom: 0;
     padding: 0;
-    border: 0;
     text-align: center;
     background-color: #666666;
 }
-hr {
-    /*display: block;*/
-    height: 3px;
-    border-bottom: 3px solid #cccccc;
-    margin: 0;
-    padding: 0;
-}
 
 h1 {
-    padding-top: 15px;
+    padding-top: 12px;
+    margin-bottom:0%;
+    padding-bottom: 0%;
+    border-bottom: 0%;
     font-size: 2.5rem;
 }
 
-
-.container-2{
-    margin-left: 3.3%
-}
-
-.imgPortfolio{
-    width:300px;
-    height:250px;
-    padding: 15px; 
-}
-
-.imgContainer1{
-    float: left;
-    position:relative; 
-}
-
-.imgContainer2{
-    float:left;
-    position:relative;
-}
-
-.imgContainer3{
-    float: left;
-    position:relative;
-}  
-
-.imgContainer4{
-    float:left;
-    position:relative;
-}
-
-.imgContainer5{
-    float: left;
-    position:relative;
-}  
-
 .IMcentered {
     position: absolute;
-    top: 80%;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    top: 70%;
     bottom:10%;
-    left:4.7%;
-    width: 90.5%;
+    left:7%;
+    right:7%;
     background-color: teal;
     text-align: center;
     font-size: 14px;
     font-weight: bold;
-  /*  margin: 3px auto; */
     color:white;
   
+}
+
+hr{
+    border-top: 3px solid;
 }
