@@ -14,8 +14,14 @@ body {
     background: url("https://www.toptal.com/designers/subtlepatterns/patterns/gravel.png");
 
   }
+  
+header{
+    background-color: #ffffff;
+    border-bottom: 3px solid #cccccc;
+}
 
 footer{
+    position: fixed;
     height: 70px;
     color: white;
     width:100%;
@@ -26,14 +32,22 @@ footer{
     text-align: center;
     background-color: #666666;
 }
-
 hr {
     /*display: block;*/
-    height: 10px;
-    border: 0;
-    border-top: 1px solid #cccccc;
+    height: 3px;
+    border-bottom: 3px solid #cccccc;
     margin: 0;
     padding: 0;
+}
+
+h1 {
+    padding-top: 15px;
+    font-size: 2.5rem;
+}
+
+
+.container-2{
+    margin-left: 3.3%
 }
 
 .imgPortfolio{
