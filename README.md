@@ -3,7 +3,7 @@ Full-Stack Web Developer with a strong testing background and over 15+ years of 
 
 ## TECHNICAL SKILLS
 |     Technical Skill         |             |
-| --------------------------- | ---------------- |
+| :---------------------------: | ----------------: |
 |Methodologies & Process:  |RUP, Agile, SCRUM|
 |Languages:                |HTML, CSS, C, C++, SQL*Plus, PL/SQL, Visual Basic, Java, R|
 |Scripting:|JavaScript, VBScript|
